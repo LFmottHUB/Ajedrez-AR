@@ -1,0 +1,8 @@
+{
+  "upstream": "https://github.com/carlosmccosta/AR-Chess",
+  "revision": "bf5e5cca89ea62ea46ba3e6381a15b86d88a7a90",
+  "artoolkitX_version": "1.1.22",
+  "android_sdk_zip_sha256": "51d595286fb33ed58de80211d3cbee596de8f94b7b45e564e37674f55ee62f60",
+  "selector_pattern_sha256": "4dfe8f0e1a3efc1b9ce41452eaacda9584a03fef080527762faa3b53b417ee6f",
+  "changes": "New Java Android UI, procedural graphics, rules and basic engine; original selector pattern; unmodified ARX bindings/native ARM libraries."
+}
